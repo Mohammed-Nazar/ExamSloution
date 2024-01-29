@@ -1,8 +1,8 @@
 # Check the variables
-
-1. try3rd
+\n
+1. try3rd\n
    A. true.
-   
+   \n
 2. LOVE KNU
    A. FLASE | Because the space in the middle of the variable (**Breaks C++ syntax rule**).
    the correct answer is (**LOVEKNU , LOVE_KNU**).
