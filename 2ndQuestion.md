@@ -6,7 +6,7 @@
 </br>
    &nbsp;  &nbsp;  A. true.
 </br>
-
+<hr>
 </br>
 </br>
 2. LOVE KNU
@@ -20,7 +20,7 @@
    the correct answer is (**LOVEKNU , LOVE_KNU**).
 </br>
    </br>
-   
+   <hr>
 </br>
 3. MIN%MMA
 </br>
@@ -28,7 +28,7 @@
 </br>
    A. FALSE | it has **% symbol** which is (**Breaks C++ syntax rule**).
 </br></br>
-
+<hr>
 </br>
 4. namespace
 </br>
